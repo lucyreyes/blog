@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title:  "Awards"
 date:   2016-07-18 12:00:00 -0400
 categories: jekyll update
 ---
